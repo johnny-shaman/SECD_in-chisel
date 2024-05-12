@@ -1,2 +1,2 @@
 # SECD_in-chisel
-FPGA Implementaition in chisel
+SECD machine implements on FPGA by chisel
